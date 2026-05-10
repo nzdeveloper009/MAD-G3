@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MAD-G3"
 include(":app")
+include(":devSyed:learnKotlin")
